@@ -1,5 +1,5 @@
 # Roll-a-Ball
-Assignemnt 1 for CIS 510 Intro to Game Programming
+Assignment 1 for CIS 510 Intro to Game Programming
 ## Project Overview
 Built using Unity 5.6
 
